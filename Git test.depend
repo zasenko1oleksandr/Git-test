@@ -1,5 +1,12 @@
 # depslib dependency file v1.0
-1743445502 source:c:\users\Олександр\desktop\git test\main.c
+1760939642 source:c:\users\Олександр\desktop\git test\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1760940476 source:c:\users\Олександр\desktop\git test\Цикл.c
+	<stdio.h>
+
+1760940401 source:c:\users\Олександр\desktop\git test\test.c
 	<stdio.h>
 	<stdlib.h>
 
